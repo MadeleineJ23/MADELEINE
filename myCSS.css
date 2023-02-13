@@ -4,14 +4,23 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #222222;
+	a:link {
+     color: #FFDAD1;
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
+	background: FFC5B7;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #B8FFE8;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -37,7 +46,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #B8FFE8;
 	margin: 0px;
 	float: left;
 	width: 100%;
