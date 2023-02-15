@@ -5,7 +5,7 @@ body {
 }
 .homePage {
 	a:link {
-     color: #FFDAD1;
+     color: #92AD68;
 }
 a:visited {
      color: #000;
@@ -20,7 +20,7 @@ a:hover, a:active, a:focus {
 	margin: 0 auto;
 }
 .header {
-	background: #7BA3B3;
+	background: #EFC8F9;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -39,14 +39,14 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #FAE6FF;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: center;
 }
 .footer {
-	background: #B8FFE8;
+	background: #EFC8F9;
 	margin: 0px;
 	float: left;
 	width: 100%;
